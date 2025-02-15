@@ -16,7 +16,7 @@ subject: 'Sitecore Portfolio'
 #### Solutions Architect - Azure, Sitecore, 3x Technology MVP
 ![Chet Potvin](https://gravatar.com/avatar/4b03b238575df9e5320447050be2dcba?s=300)
 
-- :iphone: 312.720.5069
+- :iphone: XXX.XXX.XXXX
 - :email: cpotvin@kaizio.com
 - :globe_with_meridians: https://www.kaizio.com
 - :round_pushpin: Chicago, IL :us:
